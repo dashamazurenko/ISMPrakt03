@@ -1,0 +1,6 @@
+D:\Studies\Software Engineer Courses\ISMPrakt03\ForConsole5\bin\Debug\ForConsole5.exe.config
+D:\Studies\Software Engineer Courses\ISMPrakt03\ForConsole5\bin\Debug\ForConsole5.exe
+D:\Studies\Software Engineer Courses\ISMPrakt03\ForConsole5\bin\Debug\ForConsole5.pdb
+D:\Studies\Software Engineer Courses\ISMPrakt03\ForConsole5\obj\Debug\ForConsole5.csproj.CoreCompileInputs.cache
+D:\Studies\Software Engineer Courses\ISMPrakt03\ForConsole5\obj\Debug\ForConsole5.exe
+D:\Studies\Software Engineer Courses\ISMPrakt03\ForConsole5\obj\Debug\ForConsole5.pdb
