@@ -1,0 +1,7 @@
+D:\Studies\Software Engineer Courses\ISMPrakt03\WhileConsole1\bin\Debug\WhileConsole1.exe.config
+D:\Studies\Software Engineer Courses\ISMPrakt03\WhileConsole1\bin\Debug\WhileConsole1.exe
+D:\Studies\Software Engineer Courses\ISMPrakt03\WhileConsole1\bin\Debug\WhileConsole1.pdb
+D:\Studies\Software Engineer Courses\ISMPrakt03\WhileConsole1\obj\Debug\WhileConsole1.csproj.AssemblyReference.cache
+D:\Studies\Software Engineer Courses\ISMPrakt03\WhileConsole1\obj\Debug\WhileConsole1.csproj.CoreCompileInputs.cache
+D:\Studies\Software Engineer Courses\ISMPrakt03\WhileConsole1\obj\Debug\WhileConsole1.exe
+D:\Studies\Software Engineer Courses\ISMPrakt03\WhileConsole1\obj\Debug\WhileConsole1.pdb
