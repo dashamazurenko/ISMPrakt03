@@ -1,0 +1,7 @@
+D:\Studies\Software Engineer Courses\ISMPrakt03\DoWhileConsole1\bin\Debug\DoWhileConsole1.exe.config
+D:\Studies\Software Engineer Courses\ISMPrakt03\DoWhileConsole1\bin\Debug\DoWhileConsole1.exe
+D:\Studies\Software Engineer Courses\ISMPrakt03\DoWhileConsole1\bin\Debug\DoWhileConsole1.pdb
+D:\Studies\Software Engineer Courses\ISMPrakt03\DoWhileConsole1\obj\Debug\DoWhileConsole1.csproj.AssemblyReference.cache
+D:\Studies\Software Engineer Courses\ISMPrakt03\DoWhileConsole1\obj\Debug\DoWhileConsole1.csproj.CoreCompileInputs.cache
+D:\Studies\Software Engineer Courses\ISMPrakt03\DoWhileConsole1\obj\Debug\DoWhileConsole1.exe
+D:\Studies\Software Engineer Courses\ISMPrakt03\DoWhileConsole1\obj\Debug\DoWhileConsole1.pdb
